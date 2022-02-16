@@ -1,0 +1,53 @@
+#buttons {
+    background-color: white;
+    margin: 100px;
+}
+
+.search {
+    color: #179D9F;
+    display: block;
+    background-color: rgb(245,245,245);
+    font-weight: bold;
+    border: 1px solid #F5F5F5;
+    border-radius: 20px;
+    border: 1px solid #179D9F;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    font-size: large;
+    
+
+
+}
+
+.plass {
+
+    color: white;
+    display: block;
+    background-color: rgb(0,209,178);
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    font-size: larger;
+    border: 1px white ;
+    text-align: center ;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+
+}
+
+.Account {
+    color: white;
+    display: block;
+    background-color: rgb(43,120,228);
+    border: 2px solid black;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: large;
+    box-shadow: 5px 5px 5px black;
+}
